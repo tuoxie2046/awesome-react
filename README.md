@@ -114,6 +114,7 @@ A collection of awesome things regarding the React ecosystem.
 - [tanstack-router](https://github.com/TanStack/router) - Type-safe router with built-in caching & URL state management
 
 #### React Development Tools
+- [GenAI DrawIO Creator](https://github.com/tuoxie2046/GenAI-DrawIO-Creator) - AI-powered diagram generation with React/draw.io canvas component. Built with Next.js 16 and React 19.
 
 - [vite](https://github.com/vitejs/vite) - Next Generation Frontend Tooling
 - [parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web
